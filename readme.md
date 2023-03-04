@@ -144,8 +144,9 @@ review this effectiveness before the next iteration of the project.
 ### Initiatives
 1. Develop and publish high-quality content on Docker, containerization, and GitHub
 2. Build a user-friendly website with intuitive navigation and responsive design
-3. Collect and analyze data on user behavior to improve website performance
-4. Ensure website functionality meets user requirements through comprehensive testing
+3. Ensure GDPR & COPPA compliance to protect user privacy
+4. Collect and analyze data on user behavior to improve website performance
+5. Ensure website functionality meets user requirements through comprehensive testing
 
 ### Epics
 1. Create and curate Docker and GitHub content
