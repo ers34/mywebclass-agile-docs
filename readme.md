@@ -185,8 +185,6 @@ review this effectiveness before the next iteration of the project.
 - Customize the website template with branding and visual elements
 - Develop website structure and layout using HTML and CSS
 - Implement website features using JavaScript and/or third-party plugins
-- Write automated tests for website functionality using pytest
-- Perform manual testing to ensure website functionality meets user requirements
 - Deploy website to production environment using a web hosting service
 
 #### Analytics and data collection
