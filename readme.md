@@ -165,11 +165,12 @@ review this effectiveness before the next iteration of the project.
 3. As a user, I want to easily navigate the website to find the information I need
 4. As a user, I want the website to look visually appealing and reflect the branding of the company
 5. As a user, I want the website to have features that enhance my user experience, such as a search bar or interactive elements
-6. As a user, I want to be able to understand how my data is collected, stored, and used by the website so that I can make informed decisions about using the website
-7. As a website owner, I want to set up Google Analytics to collect data on user behavior
-8. As a website owner, I want to monitor website traffic and user behavior to identify areas for improvement
-9. As a website owner, I want to analyze Google Analytics data to make data-driven decisions to improve website performance
-10. As a website owner, I want to ensure website functionality meets user requirements through comprehensive testing
+6. As a user, I want the site to comply with both GDPR & COPPA requirements in order to protect my privacy
+7. As a user, I want to be able to understand how my data is collected, stored, and used by the website so that I can make informed decisions about using the website
+8. As a website owner, I want to set up Google Analytics to collect data on user behavior
+9. As a website owner, I want to monitor website traffic and user behavior to identify areas for improvement
+10. As a website owner, I want to analyze Google Analytics data to make data-driven decisions to improve website performance
+11. As a website owner, I want to ensure website functionality meets user requirements through comprehensive testing
 
 ### Tasks
 #### Content creation and curation
