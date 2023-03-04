@@ -155,9 +155,10 @@ review this effectiveness before the next iteration of the project.
 4. Customize website template with branding and visual elements
 5. Test site functionality using pytest & Playwright
 6. Deploy website updates and improvements in a timely and efficient manner
-7. Set up and configure Google Analytics
-8. Monitor website traffic and user behavior
-9. Analyze Google Analytics data
+7. Write up and publish user privacy policy
+8. Set up and configure Google Analytics
+9. Monitor website traffic and user behavior
+10. Analyze Google Analytics data
 
 ### User Stories
 1. As a user, I want to read informative blog posts and tutorials on Docker and containerization
