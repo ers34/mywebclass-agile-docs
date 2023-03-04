@@ -137,8 +137,9 @@ review this effectiveness before the next iteration of the project.
 ### Themes
 1. Content creation and curation
 2. Website development and deployment
-3. Analytics and data collection
-4. Testing
+3. Privacy & Legal Requirements 
+4. Analytics and data collection
+5. Testing
 
 ### Initiatives
 1. Develop and publish high-quality content on Docker, containerization, and GitHub
